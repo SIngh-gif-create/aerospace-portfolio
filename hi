@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aerospace Engineering Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; color: #333; padding: 0; margin: 0; }
+    header, footer { background: #003366; color: white; text-align: center; padding: 1.5rem; }
+    section { padding: 2rem; max-width: 900px; margin: auto; }
+    h2 { border-bottom: 2px solid #003366; padding-bottom: 0.5rem; }
+    ul { list-style: none; padding: 0; }
+    li { background: white; margin-bottom: 1rem; padding: 1rem; border-left: 5px solid #003366; }
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Aerospace Engineering Portfolio</h1>
+    <p>My Projects | Self-Learning Journey</p>
+  </header>
+
+  <section>
+    <h2>📅 Roadmap</h2>
+    <ul>
+      <li><strong>Year 1 Q1–Q2:</strong> Rocket propulsion, water rocket, delta-V simulation</li>
+      <li><strong>Year 1 Q3–Q4:</strong> CAD design, Python orbital mechanics, GitHub portfolio</li>
+      <li><strong>Year 2:</strong> Space systems, airfoil simulations, final rocket design</li>
+    </ul>
+
+    <h2>🚀 Projects</h2>
+    <ul>
+      <li>Water Bottle Rocket Launch (Flight time vs. altitude)</li>
+      <li>Delta-V and Thrust Simulations using Sheets</li>
+      <li>CAD Design of Rocket Body in FreeCAD</li>
+      <li>Orbital Simulator in Python (Kepler's Laws)</li>
+    </ul>
+
+    <h2>📚 Learning Resources</h2>
+    <ul>
+      <li><a href="https://ocw.mit.edu" target="_blank">MIT OpenCourseWare</a></li>
+      <li><a href="https://nptel.ac.in/courses/101101004" target="_blank">NPTEL – Rocket Propulsion</a></li>
+      <li><a href="https://www.grc.nasa.gov/www/k-12/airplane/shortp.html" target="_blank">NASA Propulsion Basics</a></li>
+      <li><a href="https://www.youtube.com/@ScottManley" target="_blank">Scott Manley YouTube</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Your Name | Built with GitHub Pages</p>
+  </footer>
+</body>
+</html>
